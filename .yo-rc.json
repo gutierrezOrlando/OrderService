@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.readiness.tareaservice",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "gateway",
+    "baseName": "OrderService",
+    "packageName": "com.readiness.tareaservice",
+    "packageFolder": "com/readiness/tareaservice",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YThiNjdjYTE0NDc1MTE5OTQ1Y2U4OWIzMGIwNjM4ZDBmODRiZGRiYzc0OTlmZGQ5YmQ5ZGJmOTY3ZWNiMDhlMTU2NTZiY2Y5N2VhMTg0OGFlMmQwMDhhNmFiY2ZlYzE4Yjg2ZDJkZGIzMDEyMzdkZTIwZWIzMjJmMTM3ODFlYTg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "flatly",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1582249734111,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": ["es"],
+    "blueprints": []
+  }
+}
